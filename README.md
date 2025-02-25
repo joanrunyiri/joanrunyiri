@@ -40,23 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Featured Projects  
 
-💳 **[Payment Management System](GitHub Repo Link)**  
-🔹 Developed a **secure, scalable** system for **businesses to send invoices and clients to make payments**.  
-🔹 Integrated **third-party payment gateways** for seamless transactions.  
-
-📈 **[Predictive Model for Coffee Prices](GitHub Repo Link)**  
-🔹 Developing a **data-driven model to forecast coffee prices** using historical data and machine learning.  
-🔹 Focused on **time-series forecasting, feature engineering, and API integration**.  
-
-🏡 **[Big Africa Real Estate Website](GitHub Repo Link)**  
-🔹 Built a user-friendly platform to **enhance property listings and customer interactions**.  
-
-🛒 **[E-commerce Platform](GitHub Repo Link)**  
-🔹 Designed an e-commerce solution with **secure payment processing and customer account management**.  
-
----
 
 ## 📊 GitHub Stats  
 ![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanRunyiri&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRunyiri&layout=compact&theme=dark)  

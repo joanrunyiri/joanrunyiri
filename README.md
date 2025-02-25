@@ -59,17 +59,16 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
-![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanRunyiri&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRunyiri&layout=compact&theme=dark)  
+![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoanRunyiri&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRunyiri&layout=compact&theme=dark)  
+
 
 📈 **GitHub Activity Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoanRunyiri&theme=react)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joanrunyiri&theme=dark)](https://github.com/joanrunyiri)
 
 ---
 
 ## 📫 Let's Connect!  
-🌐 **Portfolio:** [Your Portfolio Link]  
-🐦 **Twitter:** [@YourTwitterHandle](Your Twitter Link)  
+
 💼 **LinkedIn:** [Joan Runyiri](https://www.linkedin.com/in/joanrunyiri/)  
 📧 **Email:** [joanrnyarua@gmail.com](mailto:joanrnyarua@gmail.com)  
 
